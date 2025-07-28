@@ -1,0 +1,15 @@
+# Ignore data and heavy artifacts
+data/
+*.h5
+*.pkl
+
+# Checkpoints and cache
+__pycache__/
+.ipynb_checkpoints/
+
+# IDE and OS files
+*.log
+.DS_Store
+
+# Outputs
+outputs/
