@@ -1,0 +1,17 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+opencv-python
+tqdm
+
+# Deep Learning
+tensorflow
+
+# For notebook development
+jupyter
+
+# Optional but useful
+Pillow
